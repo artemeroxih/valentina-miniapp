@@ -1,7 +1,9 @@
 {
  "v": 1,
- "updatedAt": "2026-09-29T17:44:17.332Z",
- "address": null,
+ "updatedAt": "2026-09-29T17:56:22.256Z",
+ "address": {
+  "text": "Санкт Петербург, ул бабушка дом 1 кВ -1 , корпус 6666"
+ },
  "visitMin": null,
  "schedule": [
   [
